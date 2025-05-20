@@ -2,54 +2,69 @@
   "hash": "05f17808",
   "configHash": "3db0f7d3",
   "lockfileHash": "ab1ed408",
-  "browserHash": "bc27db0d",
+  "browserHash": "c62031be",
   "optimized": {
     "react": {
       "src": "../../frontend/node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "617e402f",
+      "fileHash": "80067c86",
       "needsInterop": true
     },
     "react-dom": {
       "src": "../../frontend/node_modules/react-dom/index.js",
       "file": "react-dom.js",
-      "fileHash": "0e9b3ed6",
+      "fileHash": "09d6ecf5",
       "needsInterop": true
     },
     "react/jsx-dev-runtime": {
       "src": "../../frontend/node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "73b984d1",
+      "fileHash": "3660d00b",
       "needsInterop": true
     },
     "react/jsx-runtime": {
       "src": "../../frontend/node_modules/react/jsx-runtime.js",
       "file": "react_jsx-runtime.js",
-      "fileHash": "ec3d5bad",
+      "fileHash": "51913522",
       "needsInterop": true
     },
     "prop-types": {
       "src": "../../frontend/node_modules/prop-types/index.js",
       "file": "prop-types.js",
-      "fileHash": "a9bc8cb2",
+      "fileHash": "e6a63288",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../frontend/node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "411a1805",
+      "fileHash": "af23cef1",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../frontend/node_modules/react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "51d8c240",
+      "needsInterop": false
+    },
+    "leaflet": {
+      "src": "../../frontend/node_modules/leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "991579d9",
       "needsInterop": true
     }
   },
   "chunks": {
-    "chunk-VVPYTCWT": {
-      "file": "chunk-VVPYTCWT.js"
+    "chunk-ZL22GA6Z": {
+      "file": "chunk-ZL22GA6Z.js"
     },
-    "chunk-PQ7CENCS": {
-      "file": "chunk-PQ7CENCS.js"
+    "chunk-UIMLWMPE": {
+      "file": "chunk-UIMLWMPE.js"
     },
-    "chunk-BUSYA2B4": {
-      "file": "chunk-BUSYA2B4.js"
+    "chunk-IPL4W4IA": {
+      "file": "chunk-IPL4W4IA.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
     }
   }
 }

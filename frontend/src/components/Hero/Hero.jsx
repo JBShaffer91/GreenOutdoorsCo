@@ -44,4 +44,3 @@ Hero.propTypes = {
   domain: PropTypes.oneOf(domains).isRequired,
   onDomainChange: PropTypes.func.isRequired,
 }
-EOF
